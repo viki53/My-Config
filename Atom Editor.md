@@ -46,5 +46,4 @@ Display a map of the current file on the side. Made it absolute on the right sid
 
 # Others
 
-* terminal-plus (Really useful to have a terminal — or several — inside your Atom window)
-  
+* platformio-atom-ide-terminal (Really useful to have a terminal — or several — inside your Atom window)
