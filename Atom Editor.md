@@ -7,30 +7,21 @@ apm install atom-material-ui atom-material-syntax tool-bar tool-bar-atom auto-re
 
 # Appearance
 
-* atom-material-syntax
-* atom-material-ui
-
-For a material-like theme & syntax highlighting
-
-Accent color can be changed in the settings
+* atom-material-ui (Material theme, colors can be customised)
+* atom-material-syntax (The syntax that goes with this theme)
 
 # UX
 
 * tool-bar
-* tool-bar-atom
+* tool-bar-atom (Adds a toolbar that I dock on the left side with some quick access shortcuts)
 * remember-folds
 * remember-file-positions
-
-Adds a toolbar (that I dock on the left side) with some quick access shortcuts
-
 * auto-reveal-in-sidebar
 * synced-sidebar
 
 Improves sidebar behavior
 
-* minimap
-
-Display a map of the current file on the side. Made it absolute on the right side to navigate quickly
+* minimap (Shows a map on the side with a preview of the file to navigate quickly)
 
 # Coding improvement
 
