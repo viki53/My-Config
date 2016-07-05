@@ -14,20 +14,22 @@ apm install atom-material-ui atom-material-syntax tool-bar tool-bar-atom auto-re
 
 * tool-bar
 * tool-bar-atom (Adds a toolbar that I dock on the left side with some quick access shortcuts)
-* remember-folds
-* remember-file-positions
-* auto-reveal-in-sidebar
-* synced-sidebar
-
-Improves sidebar behavior
-
+* remember-folds (Remember blocks foldings in files)
+* remember-file-positions (Keeps your position in a file when you re-open it)
+* auto-reveal-in-sidebar (Reveals which file is open in the sidebar)
+* synced-sidebar (Improves sidebar behavior)
 * minimap (Shows a map on the side with a preview of the file to navigate quickly)
+* nav-panel (Show a list of the functions/methods on the side to access them quickly)
 
 # Coding improvement
 
 * emmet (Write a CSS selector & press tab: you get the HTML automagically)
 * guess-indent (Better indenting when pasting stuff)
 * highlight-selected (Hightlights other occurrences of selected text)
+
+# Syntax and autocomplete
+
+* angularjs (Syntax highlighting for Angular templates)
 
 # Linters
 
