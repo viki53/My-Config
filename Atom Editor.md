@@ -18,6 +18,8 @@ Accent color can be changed in the settings
 
 * tool-bar
 * tool-bar-atom
+* remember-folds
+* remember-file-positions
 
 Adds a toolbar (that I dock on the left side) with some quick access shortcuts
 
@@ -38,7 +40,8 @@ Display a map of the current file on the side. Made it absolute on the right sid
 
 # Linters
 
-* jshint (For better JS style. Don't forget to create a `.jshintrc` file in your projects to make it work)
+* jshint (Detects JS errors. Don't forget to create a `.jshintrc` file in your projects to make it work)
+* linter-jscs (For JS styleguides. Don't forget to create e `.jscsrc` file to customize it to your needs)
 
 # Git integration
 
@@ -46,4 +49,4 @@ Display a map of the current file on the side. Made it absolute on the right sid
 
 # Others
 
-* platformio-atom-ide-terminal (Really useful to have a terminal — or several — inside your Atom window)
+* platformio-ide-terminal (Really useful to have a terminal — or several — inside your Atom window)
