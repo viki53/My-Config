@@ -19,7 +19,7 @@ apm install atom-material-ui atom-material-syntax tool-bar tool-bar-atom auto-re
 * auto-reveal-in-sidebar (Reveals which file is open in the sidebar)
 * synced-sidebar (Improves sidebar behavior)
 * minimap (Shows a map on the side with a preview of the file to navigate quickly)
-* nav-panel (Show a list of the functions/methods on the side to access them quickly)
+* nav-panel (Shows a list of the functions/methods defined in the current file on the side to access them quickly)
 
 # Coding improvement
 
