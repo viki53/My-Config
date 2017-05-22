@@ -29,7 +29,8 @@ apm install atom-material-ui atom-material-syntax tool-bar tool-bar-atom auto-re
 
 # Syntax and autocomplete
 
-* angularjs (Syntax highlighting for Angular templates)
+* language-typescript-grammars-only
+* atom-autocomplete-php
 
 # Linters
 
@@ -42,4 +43,4 @@ apm install atom-material-ui atom-material-syntax tool-bar tool-bar-atom auto-re
 
 # Others
 
-* platformio-ide-terminal (Really useful to have a terminal — or several — inside your Atom window)
+* platformio-ide-terminal (Stopped using it, but really useful to have a terminal — or several — inside an Atom window)
