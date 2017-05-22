@@ -1,7 +1,7 @@
 # Quick install
 
 ```shell
-apm install atom-material-ui atom-material-syntax tool-bar tool-bar-atom auto-reveal-in-sidebar synced-sidebar minimap emmet guess-indent highlight-selected jshint linter-jscs git-plus platformio-ide-terminal
+apm install atom-material-ui atom-material-syntax tool-bar tool-bar-atom auto-reveal-in-sidebar synced-sidebar minimap emmet guess-indent highlight-selected jshint linter-jscs language-typescript-grammars-only atom-autocomplete-php git-plus
 ```
 
 
